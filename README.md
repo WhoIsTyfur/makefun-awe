@@ -17,8 +17,8 @@ You fall asleep on the night train,
 your cheek on your mother's sleeve.
 Clack. A long hush. Clack.
 Under the rails, the whole continent
-is drifting, as slowly as a fingernail grows.
-It has carried everyone, for a hundred million years.
+drifts, as slowly as a fingernail grows.
+It has carried everyone for a hundred million years.
 Tonight it carries the train, and you.
 ```
 
