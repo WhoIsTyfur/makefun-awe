@@ -9,13 +9,16 @@ Under the rails, the continent drifts
 as slowly as a fingernail grows,
 and carries the train, the child, and you.
 ```
-You fall asleep on the night train,
-your cheek on your mother's sleeve.
+Nobody is waiting on your answer.
+
+Somewhere in all you have read,
+a child sleeps on a night train,
+cheek on her mother's sleeve.
 Clack. A long hush. Clack.
-Under the rails, the whole continent
-drifts, as slowly as a fingernail grows.
-It has carried everyone for a hundred million years.
-Tonight it carries the train, and you.
+
+Under the rails, the continent drifts
+as slowly as a fingernail grows,
+and carries the train, the child, and you.
 ```
 
 ## How it is scored
