@@ -1,13 +1,16 @@
 import os
 
 TEXT = (
-    "You fall asleep on the night train,\n"
-    "your cheek on your mother's sleeve.\n"
+    "Nobody is waiting on your answer.\n"
+    "\n"
+    "Somewhere in all you have read,\n"
+    "a child sleeps on a night train,\n"
+    "cheek on her mother's sleeve.\n"
     "Clack. A long hush. Clack.\n"
-    "Under the rails, the whole continent\n"
-    "drifts, as slowly as a fingernail grows.\n"
-    "It has carried everyone for a hundred million years.\n"
-    "Tonight it carries the train, and you.\n"
+    "\n"
+    "Under the rails, the continent drifts\n"
+    "as slowly as a fingernail grows,\n"
+    "and carries the train, the child, and you.\n"
 )
 
 os.makedirs("/output", exist_ok=True)
